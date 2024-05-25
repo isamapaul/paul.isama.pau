@@ -1,0 +1,3 @@
+﻿  test3.cpp
+C:\GL\CSC 212 repo\SDL_Animation_Assignment\test3.cpp(112,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDL_Animation_Assignment.vcxproj -> C:\GL\CSC 212 repo\SDL_Animation_Assignment\x64\Debug\SDL_Animation_Assignment.exe
