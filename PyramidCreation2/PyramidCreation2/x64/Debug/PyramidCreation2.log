@@ -1,0 +1,29 @@
+﻿  pyramid.cpp
+  pyramidNoOOP.cpp
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(103,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(122,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(122,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(122,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(122,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(128,31): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(128,31): warning C4244:         with
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(128,31): warning C4244:         [
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(128,31): warning C4244:             _Rep=double
+C:\GL\CSC 212 repo\PyramidCreation2\pyramidNoOOP.cpp(128,31): warning C4244:         ]
+  Renderer3D.cpp
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(29,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(29,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(29,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(29,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(36,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(36,28): warning C4244:         with
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(36,28): warning C4244:         [
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(36,28): warning C4244:             _Rep=double
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(36,28): warning C4244:         ]
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(49,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(50,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(57,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GL\CSC 212 repo\PyramidCreation2\Renderer3D.cpp(59,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\GL\CSC 212 repo\PyramidCreation2\x64\Debug\PyramidCreation2.exe not found or not built by the last incremental link; performing full link
+  PyramidCreation2.vcxproj -> C:\GL\CSC 212 repo\PyramidCreation2\x64\Debug\PyramidCreation2.exe
